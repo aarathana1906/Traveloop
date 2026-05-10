@@ -1,2 +1,9 @@
 # Traveloop
 Personalized Travel Planning application
+The overarching vision for Traveloop is to become a personalized, intelligent, and
+collaborative platform that transforms the way individuals plan and experience travel.
+The platform aims to empower users to dream, design, and organize trips with ease by
+offering an end-to-end travel planning tool that combines flexibility and interactivity.
+It envisions a world where users can explore global destinations, visualize their
+journeys through structured itineraries, make cost-effective decisions, and share their
+travel plans within a community—making travel planning as exciting as the trip itself.
